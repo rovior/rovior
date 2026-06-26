@@ -1,6 +1,6 @@
 
 # 👨‍💻 About Me  
-Hello! I’m a **Systems Developer** with a degree, currently studying **Electrical Engineering**, and always exploring the world of technology.
+Hello! I’m a **Systems Developer**, currently studying **Electrical Engineering**, and always exploring the world of technology.
 
 ## 🚀 My Specialties  
 
