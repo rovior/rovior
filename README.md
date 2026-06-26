@@ -5,19 +5,19 @@ Hello! I’m a **Systems Developer** with a degree, currently studying **Electri
 ## 🚀 My Specialties  
 
 ### 🌐 Web Development  
-- **Java**: Experience in web development with **Spring Framework**. My education focused on **full-stack Java development**.  
-- **PHP**: Trained to work as a **full-stack developer**, creating dynamic and scalable applications.  
+- **Java**: Experience in web development with **Spring Framework**. My education focused on **full-stack Java development**; 
+- **PHP**: Trained to work as a **full-stack developer**;  
 - **JavaScript**: Deepening my skills for both **frontend** and **backend** (with **Node.js**), building interactive and efficient applications.  
-- **Frontend**: Proficient in **HTML**, **CSS**, **Bootstrap**, and experienced with **React**.
+- **Frontend**: Proficient in **HTML**, **CSS**, **Bootstrap**, experienced with **React** and **Angular**.
 
 ### 💻 Desktop Development  
-- **Java**: Developing robust applications with **JavaFX**.  
+- **Java**: Developing applications with **JavaFX**.  
 - **C++**, **Python**, and **C#**: Practical knowledge and small projects for continuous learning.
 
 ### 🛠️ Tools and Technologies  
 - **Docker**: Setting up efficient, isolated environments.  
-- **Linux (Desktop/Server)**: Advanced user with experience in system and server administration.  
-- **Bubble.io**: **Learning Bubble.io** to quickly and efficiently build no-code applications. Ideal for prototypes and MVPs.
+- **Linux (Desktop/Server)**: Advanced user with experience in system and server administration.
+- **Salesforce**: I developed a library project that solves the problem of tracing the borrowing and creation of learning metrics
 
 ## 🌱 What I’m Learning  
 - **Improving React skills** and learning modern frameworks.  
